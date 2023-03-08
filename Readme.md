@@ -2,7 +2,7 @@
 
 
 
-This is the official repo for the paper "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via  Ranking Oracles" Tang et al.
+This is the official repo for the paper "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via  Ranking Oracles" Tang et al. https://arxiv.org/abs/2303.03751
 
 
 
@@ -53,4 +53,15 @@ We actually use the Oneflow version of Stable Diffusion in our implementation ht
 ## Cite
 
 If our work is useful for you, please cite our paper
+```
+@misc{https://doi.org/10.48550/arxiv.2303.03751,
+doi = {10.48550/ARXIV.2303.03751},
+url = {https://arxiv.org/abs/2303.03751},
+author = {Tang, Zhiwei and Rybin, Dmitry and Chang, Tsung-Hui},
+keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+title = {Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles},
+publisher = {arXiv},
+year = {2023},
+}
 
+````
