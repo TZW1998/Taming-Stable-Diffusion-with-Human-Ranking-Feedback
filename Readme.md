@@ -46,7 +46,9 @@ We actually use the Oneflow version of Stable Diffusion in our implementation ht
 
 - [ ] Intergate it into Stable Diffusion Webui
 
+## Contact
 
+Zhiwei Tang, zhiweitang1@link.cuhk.edu.cn
 
 
 
